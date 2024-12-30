@@ -92,8 +92,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 
 ## Table of Contents
-- [Course Outline](#course-outline)
-- [Course Layout](#course-layout)
+- [Course Content](#course-layout)
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Course Attendance](#course-attendance)
@@ -107,9 +106,9 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 -	**Dynamics of a Rigid body**: Inertia tensor; Principal axes; Angular Impulse-momentum relations; general equations of motion of a rigid body; motion of a rigid body with a fixed axis of rotation; Euler’s equations; work-energy relation; Balancing of rotors; Plane motion with examples; Impact of rigid bodies; Gyroscopic torque.
 
-4.	**Statics**: Equations of equilibrium; static determinacy; frames, mechanisms, and constraints; Friction and impending motion (rolling and tipping); Journal bearing; Bars, trusses, and beams.
+-	**Statics**: Equations of equilibrium; static determinacy; frames, mechanisms, and constraints; Friction and impending motion (rolling and tipping); Journal bearing; Bars, trusses, and beams.
 
-5.	**Variational Mechanics**: Hamilton’s principle; Lagrange’s equations; principle of virtual work.
+-	**Variational Mechanics**: Hamilton’s principle; Lagrange’s equations; principle of virtual work.
 
 
 ## Course References
