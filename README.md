@@ -25,7 +25,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 ## Lecture Schedule
 
 |Topics| Lecture Notes|
-|:------------------:|:-------------:|
+|:------------------|:-------------:|
 |0. Index notation / Einstein summation convention (ESC) | [ESC (Self Study)](Lectures/Lecture0.pdf) | 
 |1. Definitions, Reference frames, Coordinate systems, Position vector, Velocity, and Acceleration of a Point/Particle  | [Lecture 1](Lectures/Lecture1.pdf) | 
 |2. Kinematics of a Particle/Point in Cartesian, Cylindrical, and Path Coordinate System | [Lecture 2-3](Lectures/Lecture2-3.pdf) |
