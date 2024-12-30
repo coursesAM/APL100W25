@@ -120,6 +120,8 @@ This course is based on three textbooks:
 *Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures.*
 
 ## Grading  
+A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** Best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz.
+
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------:|
