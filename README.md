@@ -1,13 +1,12 @@
 # APL 100: Engineering Mechanics (Winter semester 2025) 
 
-![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
-
+![image](https://github.com/user-attachments/assets/5581facb-249e-4e6d-96cc-6794c596201c)
 
 ## Course Info
 
 **Credit:** 4 units (3-1-0) <br> <br>
 
-**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
+**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (apl100w25@gmail.com) <br> <br>
 
 **Class timings:** Mon & Thu (2:00 - 3:30 PM) at LHC 108 <br><br>
 
