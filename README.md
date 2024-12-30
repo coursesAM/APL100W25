@@ -9,36 +9,31 @@
 
 **Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC 308 <br><br>
+**Class timings:** Mon & Thu (2:00 - 3:30 PM) at LHC 108 <br><br>
 
-**Tutorial Session:** Wed (2:00 to 3:00 PM),  Block II LT 1 <br><br> 
+**Tutorial Session:** Tue & Fri (9:00 - 10:00 AM),   
 
 An attendance list of students in  tutorial sessions can be found [here](https://docs.google.com/spreadsheets/d/1lqz1ZZ1twslXaL6lDjlNlxn4mmR53GI0De8FQfE78lM/edit?usp=sharing). <br> 
 
 **Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
-**Intended audience:** BTech students in Applied Mechanics and Material Science
+**Intended audience:** All first-year BTech students
 
-**NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
+**NOTE**-For *all course related emails*, please put **APL100** in the subject line <br>
 
 
 ## Lecture Schedule
 
-|Module|Topics| Lecture Notes| In-class notes |
-|:----------------|:-------------:|:-----------------------------:|:----------------:|
-|**Module 00**| Why learn Solid Mechanics | [Introduction](Lectures/Lecture0.pdf) | |
-|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | |
-|**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1 & 2](Lectures/Note1.pdf)|
-|**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | [Mod3](Lectures/Note2.pdf)|
-|**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) | [Mod4-1](Lectures/Note3.pdf)|
-|**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)| [Mod5](Lectures/Note4.pdf)|
-|**Module 06**| Concept of Strain  | [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf) <br> [Strain compatibility](Lectures/Lecture15.pdf) <br> [Similarity of properties of stress and strain tensors](Lectures/Lecture16.pdf)|  [Mod6](Lectures/Note5.pdf) |
-|**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)| Same as previous year |
-|**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) | Same as previous year |
-|**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22new.pdf)| Same as previous year |
-|**Module 10**| Uniform bending of symmetrical beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending of symmetrical beams](Lectures/Lecture24.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | Same as previous year |
-|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lecture29a.pdf) <br> [Principle of Virtual Work and Minimum Potential Energy](Lectures/Energy_Kelly.pdf)| Same as previous year |
-|**Module 12**| Failure Theories | [Three basic failure theory](Lectures/Failure_Kelly.pdf) | Same as previous year |
+|Topics| Lecture Notes|
+|:------------------:|:-------------:|
+|0. Index notation / Einstein summation convention (ESC) | [ESC (Self Study)](Lectures/Lecture0.pdf) | 
+|1. Definitions, Reference frames, Coordinate systems, Position vector, Velocity, and Acceleration of a Point/Particle  | [Lecture 1](Lectures/Lecture1.pdf) | 
+|2. Kinematics of a Particle/Point in Cartesian, Cylindrical, and Path Coordinate System | [Lecture 2-3](Lectures/Lecture2-3.pdf) |
+|3. Motion of a Moving Frame | [Lecture 4](Lectures/Lecture4.pdf) |
+|4. Multiple Reference Frames | [Lecture 5](Lectures/Lecture5.pdf) |
+|5. Kinematics of rigid bodies | [Lecture 6](Lectures/Lecture6.pdf) |
+
+
 
 <!--
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
