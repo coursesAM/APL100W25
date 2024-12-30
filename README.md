@@ -6,7 +6,7 @@
 
 **Credit:** 4 units (3-1-0) <br> <br>
 
-**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (apl100w25@gmail.com) <br> <br>
+**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (apl100w25@gmail.com) & [Prof. Sawan Sinha](https://sites.google.com/view/sawanssinharesearchteaching/home) <br> <br>
 
 **Class timings:** Mon & Thu (2:00 - 3:30 PM) at LHC 108 <br><br>
 
