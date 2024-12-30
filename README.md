@@ -116,16 +116,18 @@ This course is based on three textbooks:
 * **Course Textbook**: "Engineering mechanics" by P. C. Dumir, S. Sengupta, and S. V. Veeravalli, Universities Press, 2020.
 *	"Vector Mechanics for Engineers, Statics & Dynamics" by F. P. Beer et al. McGraw Hill, 7th Ed. 2005
 *	"Engineering Mechanics, Statics and Dynamics" by I.H. Shames, Prentice Hall, (Third or Fourth edition).
+  
 *Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures.*
 
 ## Grading  
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------:|
-|**Quiz #1**| 15 |  |
+|**Quiz #1**| 10 |  |
 |**Minor**| 30 | [Sol](Exams/MinorSol24.pdf) |
-|**Quiz #2**| 15 |  |
-|**Major**| 40 | [Sol](Exams/MajorSolF24_final.pdf)|
+|**Quiz #2**| 10 |  |
+|**Quiz #3**| 10 |  |
+|**Major**| 40 | [Sol](Exams/MajorSolF24.pdf)|
 |**Total** |100| |
 
 ## Course Attendance
