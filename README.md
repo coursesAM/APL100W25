@@ -56,18 +56,18 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 ## Tutorial Schedule
 
-|Topics|Tutorial Questions| Tutorial Solutions |
-|:---------:|:--------:|:--------:|
-| Study of forces | [Tutorial 1](Tutorials/APL104_F24_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
-| Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
-| Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
-| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
-| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F24_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
-| Strain | [Tutorial 6](Tutorials/APL104_F24_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
-| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
-| Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F24_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
-| Uniform beam bending | [Tutorial 9](Tutorials/APL104_F24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
-| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 10](Tutorials/APL104_F24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
+|Tutorial Questions| Tutorial (Part A) Solutions |
+|:--------:|:--------:|
+| [Tutorial 1](Tutorials/APL100W24_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+| [Tutorial 2](Tutorials/APL100W24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
+| [Tutorial 3](Tutorials/APL100W24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
+| [Tutorial 4](Tutorials/APL100W24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
+| [Tutorial 5](Tutorials/APL100W24_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
+| [Tutorial 6](Tutorials/APL100W24_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
+| [Tutorial 7](Tutorials/APL100W24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
+| [Tutorial 8](Tutorials/APL100W24_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
+| [Tutorial 9](Tutorials/APL100W24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
+| [Tutorial 10](Tutorials/APL100W24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
 
 <!--
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/ Tutorial9sol.pdf) |
@@ -100,36 +100,24 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
 
-## Course Outline
-This is the first course where the deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building a foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study the extension, torsion, and bending of beams. The one-dimensional theory of beams is also introduced. Various theories of failure that are critical for the design of machine elements in the industry will also be discussed.
+## Course Content
+-	**Kinematics**: Moving point in different coordinate systems; Rigid bodies; Translation and Rotation; Relative motion for translating systems; Angular velocity; General motion of a rigid body; General relative motion.
 
-## Course Layout
-- Fundamental Principles of Mechanics; Introduction of mechanics of deformable bodies
-- Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
-- State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
-- Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
-- Longitudinal, shear, and volumetric strains; Local infinitesimal rotation; Strain compatibility condition
-- Linear stress-strain relation for isotropic bodies; Relation between material constants
-- Stress and strain matrices in the cylindrical coordinate system; Equations of equilibrium in the cylindrical coordinate system
-- Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
-- Bending of beams having the symmetrical and non-symmetrical cross-section
-- Shear center, Shear flow in thin and open cross-section beams; Euler Bernoulli and Timoshenko beam theories; beam buckling
-- Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using the energy method
-- Various theories of failure and their application
+-	**Axioms and Force Systems**: Mass and center of mass; Resultant force systems; center of parallel forces; Work, power and kinetic energy; Euler’s Axioms; Equations of Equilibrium; Impulse and Angular Impulse; Impulse-momentum relations; Dry friction; Belt friction; Free body diagrams; Conservative forces; workless forces.
+
+-	**Dynamics of a Rigid body**: Inertia tensor; Principal axes; Angular Impulse-momentum relations; general equations of motion of a rigid body; motion of a rigid body with a fixed axis of rotation; Euler’s equations; work-energy relation; Balancing of rotors; Plane motion with examples; Impact of rigid bodies; Gyroscopic torque.
+
+4.	**Statics**: Equations of equilibrium; static determinacy; frames, mechanisms, and constraints; Friction and impending motion (rolling and tipping); Journal bearing; Bars, trusses, and beams.
+
+5.	**Variational Mechanics**: Hamilton’s principle; Lagrange’s equations; principle of virtual work.
+
 
 ## Course References
 This course is based on three textbooks:
-*  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
-*  Kumar, Ajeet, *"Solid Mechanics for Undergraduates - Using Vectors and Tensors"*, White Falcon Publishing, 2024.
-*  Boresi, Arthur, *"Ädvanced Mechanics of Materials"*
-*  Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
-*  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
-
-Other references
-* Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
-* Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
-* Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
-
+* **Course Textbook**: "Engineering mechanics" by P. C. Dumir, S. Sengupta, and S. V. Veeravalli, Universities Press, 2020.
+*	"Vector Mechanics for Engineers, Statics & Dynamics" by F. P. Beer et al. McGraw Hill, 7th Ed. 2005
+*	"Engineering Mechanics, Statics and Dynamics" by I.H. Shames, Prentice Hall, (Third or Fourth edition).
+*Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures.*
 
 ## Grading  
 
