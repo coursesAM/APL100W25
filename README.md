@@ -18,8 +18,6 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
  
 **Intended audience:** All first-year BTech students
 
-**NOTE**-For *all course related emails*, please put **APL100** in the subject line <br>
-
 
 ## Lecture Schedule
 
