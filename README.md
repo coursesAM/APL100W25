@@ -50,11 +50,11 @@ All tutorials will be held in **LH413.3**
 
 |Day| Faculty | Group | 
 |:--------:|:--------:|:--------:|
-|**Monday**| Prof. Arghya Samanta| 11-12 |
-|**Tuesday**| Prof. Rajdip Nayek| 13-14 |
-|**Wednesday**| Prof. Ritabrata Thakur| 15-16 |
-|**Thursday**| Prof. Sabyasachi Chatterjee| 17-18 |
-|**Friday**| Prof. Rajdip Nayek | 19-20 |
+|Monday| Prof. Arghya Samanta| 11-12 |
+|Tuesday| Prof. Rajdip Nayek| 13-14 |
+|Wednesday| Prof. Ritabrata Thakur| 15-16 |
+|Thursday| Prof. Sabyasachi Chatterjee| 17-18 |
+|Friday| Prof. Rajdip Nayek | 19-20 |
 
 
 
