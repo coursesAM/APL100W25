@@ -92,7 +92,7 @@
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Lecture Attendance](#lecture-attendance)
-- [Policy for Cheating](#policy-for-cheating)
+- [Miscellaneous Information](#miscellaneous-information)
 
 ## Course Content
 -	**Kinematics**: Moving point in different coordinate systems; Rigid bodies; Translation and Rotation; Relative motion for translating systems; Angular velocity; General motion of a rigid body; General relative motion.
