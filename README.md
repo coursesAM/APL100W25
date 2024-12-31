@@ -21,7 +21,7 @@
 ## Table of Contents
 - [Lecture Schedule](#lecture-schedule)
 - [Tutorial Schedule](#tutorial-schedule)
-- [Course Content](#course-layout)
+- [Course Content](#course-content)
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Lecture Attendance](#lecture-attendance)
