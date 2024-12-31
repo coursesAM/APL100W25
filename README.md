@@ -128,6 +128,7 @@ A single make-up exam will be arranged for students who miss the minor exam due 
 |**Quiz #2**| 10 |  |
 |**Quiz #3**| 10 |  |
 |**Major**| 40 | [Sol](Exams/MajorSolF24.pdf)|
+|**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
 
 ## Course Attendance
