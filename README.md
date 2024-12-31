@@ -46,6 +46,18 @@
 | [Tutorial 9](Tutorials/APL100W24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
 | [Tutorial 10](Tutorials/APL100W24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
 
+All tutorials will be held in **LH413.3**
+
+|Day| Faculty | Group | 
+|:--------:|:--------:|:--------:|
+|**Monday**| Prof. Arghya Samanta| 11-12 |
+|**Tuesday**| Prof. Rajdip Nayek| 13-14 |
+|**Wednesday**| Prof. Ritabrata Thakur| 15-16 |
+|**Thursday**| Prof. Sabyasachi Chatterjee| 17-18 |
+|**Friday**| Prof. Rajdip Nayek | 19-20 |
+
+
+
 ## Table of Contents
 - [Course Content](#course-layout)
 - [Course References](#course-references)
