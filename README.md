@@ -6,16 +6,14 @@
 
 **Credit:** 4 units (3-1-0) <br> <br>
 
-**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (apl100w25@gmail.com) & [Prof. Sawan Sinha](https://sites.google.com/view/sawanssinharesearchteaching/home) <br> <br>
+**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (apl100w25@gmail.com) <br> <br>
 
 **Class timings:** Mon & Thu (2:00 - 3:30 PM) at LHC 108 <br><br>
 
-**Tutorial Session:** Tue & Fri (9:00 - 10:00 AM),   
+**Tutorial Session:** Tue & Fri (9:00 - 10:00 AM) <br> <br>
 
-An attendance list of students in  tutorial sessions can be found [here](https://docs.google.com/spreadsheets/d/1lqz1ZZ1twslXaL6lDjlNlxn4mmR53GI0De8FQfE78lM/edit?usp=sharing). <br> 
+**Office Hours:** Thu 4:00 - 5:00 PM (in Block 4 Room B-24) <br>
 
-**Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
- 
 **Intended audience:** All first-year BTech students
 
 
@@ -93,8 +91,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 - [Course Content](#course-layout)
 - [Course References](#course-references)
 - [Grading](#grading)
-- [Course Attendance](#course-attendance)
-- [Quiz](#quiz)
+- [Lecture Attendance](#lecture-attendance)
 - [Policy for Cheating](#policy-for-cheating)
 
 ## Course Content
@@ -115,10 +112,10 @@ This course is based on three textbooks:
 *	"Vector Mechanics for Engineers, Statics & Dynamics" by F. P. Beer et al. McGraw Hill, 7th Ed. 2005
 *	"Engineering Mechanics, Statics and Dynamics" by I.H. Shames, Prentice Hall, (Third or Fourth edition).
   
-*Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures.*
+*Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures. It is mandatory that all students follow the notation used in lecture notes in all exams/quizzes/tutorial sessions. The use of any other notation leads to massive confusion and ambiguity. If you do not follow the notations used in the lecture notes, your work will not be evaluated.*
 
 ## Grading  
-A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** Best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz.
+A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** The best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz. To earn an A grade, a student must have more than 80% marks AND must be within the top 10% of the class. Below 30% will be an F grade.  All exams, quizzes, and final grading will be common for the Morning and Afternoon batches. 
 
 
 |Component|Scores| Solutions | 
@@ -131,17 +128,16 @@ A single make-up exam will be arranged for students who miss the minor exam due 
 |**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
 
-## Course Attendance
-Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on an average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
+## Lecture Attendance
+Students are required to maintain a minimum attendance of 75% in lecture classes. If a student's lecture attendance falls below 75%, their grade in the course may be reduced, in line with the institute's policy on attendance. Any student who is caught signing on the attendance sheet for another student in any lecture/tutorial session will get a zero on the tutorial attendance part (zero on 10%).
 
-Please note that re-quizzes will not be offered for missed quizzes, regardless of the reason.
+## Miscellaneous Information
+*	Cases of plagiarism will be dealt with sternly, and all parties involved will receive identical punishment. Finding any evidence of plagiarism will lead to zero being awarded to all parties on that entire exam.
 
-Retakes will be provided only for Minor and Major exams.
+* Classroom doors close at 8:05 AM/2:05 PM.  If you arrive after the classroom door has been closed, do not knock and disturb: just leave. 
 
-For a missed quiz, your quiz grade will instead be calculated based on your performance in at least TWO other assessments (Minor/Reminor, Major/Remajor, and two Quizzes). If you are only able to appear for only one assessment, you will unfortunately be awarded zero marks on the missed assessments.
+* All course-related material (including lecture notes) will be uploaded on Moodle course page. Some short-notice announcements may also be posted on this page. Your IITD email will be used to broadcast short-notice announcements. Students are advised to frequently (i) visit the Moodle course webpage, and (ii) their IITD mail inbox for the up-to-date information/activities related to this course.
 
-## Policy for Cheating 
-**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
 
 
 
