@@ -18,6 +18,15 @@
 
 **Intended audience:** All first-year BTech students
 
+## Table of Contents
+- [Lecture Schedule](#lecture-schedule)
+- [Tutorial Schedule](#tutorial-schedule)
+- [Course Content](#course-layout)
+- [Course References](#course-references)
+- [Grading](#grading)
+- [Lecture Attendance](#lecture-attendance)
+- [Miscellaneous Information](#miscellaneous-information)
+
 
 ## Lecture Schedule
 
@@ -56,14 +65,6 @@ All tutorials will be held in **LH413.3**
 |Thursday| Prof. Sabyasachi Chatterjee| 17-18 |
 |Friday| Prof. Rajdip Nayek | 19-20 |
 
-
-
-## Table of Contents
-- [Course Content](#course-layout)
-- [Course References](#course-references)
-- [Grading](#grading)
-- [Lecture Attendance](#lecture-attendance)
-- [Miscellaneous Information](#miscellaneous-information)
 
 ## Course Content
 -	**Kinematics**: Moving point in different coordinate systems; Rigid bodies; Translation and Rotation; Relative motion for translating systems; Angular velocity; General motion of a rigid body; General relative motion.
