@@ -134,7 +134,7 @@ Students are required to maintain a minimum attendance of 75% in lecture classes
 ## Miscellaneous Information
 *	Cases of plagiarism will be dealt with sternly, and all parties involved will receive identical punishment. Finding any evidence of plagiarism will lead to zero being awarded to all parties on that entire exam.
 
-* Classroom doors close at 8:05 AM/2:05 PM.  If you arrive after the classroom door has been closed, do not knock and disturb: just leave. 
+* Classroom doors close at 2:05 PM. If you arrive after the classroom door has been closed, do not knock and disturb, **just leave**. 
 
 * All course-related material (including lecture notes) will be uploaded on Moodle course page. Some short-notice announcements may also be posted on this page. Your IITD email will be used to broadcast short-notice announcements. Students are advised to frequently (i) visit the Moodle course webpage, and (ii) their IITD mail inbox for the up-to-date information/activities related to this course.
 
