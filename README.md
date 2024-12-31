@@ -12,7 +12,7 @@
 
 **Tutorial Session:** Tue & Fri (9:00 - 10:00 AM) <br> <br>
 
-**Office Hours:** Thu 4:00 - 5:00 PM (in Block 4 Room B-24) <br>
+**Office Hours:** Thu 4:00 - 5:00 PM (in Block 4 Room B-24) <br><br>
 
 **Intended audience:** All first-year BTech students
 
