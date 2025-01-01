@@ -87,7 +87,9 @@ This course is based on three textbooks:
 *Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures. It is mandatory that all students follow the notation used in lecture notes in all exams/quizzes/tutorial sessions. The use of any other notation leads to massive confusion and ambiguity. If you do not follow the notations used in the lecture notes, your work will not be evaluated.*
 
 ## Grading  
-A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** The best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz. To earn an A grade, a student must have more than 80% marks AND must be within the top 10% of the class. Below 30% will be an F grade.  All exams, quizzes, and final grading will be common for the Morning and Afternoon batches. 
+A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** The best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz. 
+
+To earn an A grade, a student must have more than 80% marks AND must be within the top 10% of the class. Below 30% will be an F grade.  All exams, quizzes, and final grading will be common for the Morning and Afternoon batches. 
 
 
 |Component|Scores| Solutions | 
@@ -108,7 +110,7 @@ Students are required to maintain a minimum attendance of 75% in lecture classes
 
 * Classroom doors close at 2:05 PM. If you arrive after the classroom door has been closed, do not knock and disturb, **just leave**. 
 
-* All course-related material (including lecture notes) will be uploaded on Moodle course page. Some short-notice announcements may also be posted on this page. Your IITD email will be used to broadcast short-notice announcements. Students are advised to frequently (i) visit the Moodle course webpage, and (ii) their IITD mail inbox for the up-to-date information/activities related to this course.
+* All course-related material (including lecture notes) will be uploaded to this website and the Moodle course page. Some short-notice announcements may also be posted on this page. Your IITD email will be used to broadcast short-notice announcements. Students are advised to frequently (i) visit the Moodle course webpage, and (ii) their IITD mail inbox for the up-to-date information/activities related to this course.
 
 
 
