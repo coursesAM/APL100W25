@@ -89,7 +89,7 @@ This course is based on three textbooks:
 ## Grading  
 A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** The best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz. 
 
-To earn an A grade, a student must have more than 80% marks AND must be within the top 10% of the class. Below 30% will be an F grade.  All exams, quizzes, and final grading will be common for the Morning and Afternoon batches. 
+To earn an A grade, a student must have more than 80% marks **AND** must be within the top 10% of the class. Below 30% will be an F grade.  All exams, quizzes, and final grading will be common for the Morning and Afternoon batches. 
 
 
 |Component|Scores| Solutions | 
