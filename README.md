@@ -18,7 +18,7 @@
 
 **Intended audience:** All first-year BTech students
 
-**Course Policy** (in pdf format): [Course policy](APL100W25_course_policy.pdf)
+**Course Policy** (in pdf format): [Course policy PDF](APL100W25_course_policy.pdf)
 
 ## Table of Contents
 - [Lecture Schedule](#lecture-schedule)
