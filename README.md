@@ -18,6 +18,8 @@
 
 **Intended audience:** All first-year BTech students
 
+[**Course Policy**](APL100W25_course_policy.pdf)
+
 ## Table of Contents
 - [Lecture Schedule](#lecture-schedule)
 - [Tutorial Schedule](#tutorial-schedule)
@@ -50,7 +52,7 @@
     Come prepared to discuss any doubts with the tutorial teachers.  
   - **Part-B:**  
     This section contains the homework assignments.  
-    Please note that **tutorial teachers will not provide solutions or hints for Part-B** during the tutorials.  
+    Please do not ask **tutorial teachers to provide solutions or hints for Part-B** during the tutorials (or even outside of tutorials).  
     You are encouraged to work independently on these assignments to enhance your learning.  
 
 - **Additional Requirements:**  
@@ -96,7 +98,7 @@ All tutorials will be held in **LH413.3**
 
 ## Course References
 This course is based on three textbooks:
-* **Course Textbook**: "Engineering mechanics" by P. C. Dumir, S. Sengupta, and S. V. Veeravalli, Universities Press, 2020.
+* **Course Textbook**: "Engineering Mechanics" by P. C. Dumir, S. Sengupta, and S. V. Veeravalli, Universities Press, 2020.
 *	"Vector Mechanics for Engineers, Statics & Dynamics" by F. P. Beer et al. McGraw Hill, 7th Ed. 2005
 *	"Engineering Mechanics, Statics and Dynamics" by I.H. Shames, Prentice Hall, (Third or Fourth edition).
   
