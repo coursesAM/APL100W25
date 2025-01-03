@@ -41,6 +41,22 @@
 
 
 ## Tutorial Schedule
+- **Tutorial sheets** will be uploaded on the course **MOODLE** (and this webpage) a week prior to the tutorial session.  
+
+- Each sheet will be divided into **Part-A** and **Part-B**:  
+  - **Part-A:**  
+    Solutions will be uploaded on MOODLE (and this webpage) along with the tutorial sheet.  
+    Students are required to review both the problems **AND** their solutions **before attending the tutorials**.  
+    Come prepared to discuss any doubts with the tutorial teachers.  
+  - **Part-B:**  
+    This section contains the homework assignments.  
+    Please note that **tutorial teachers will not provide solutions or hints for Part-B** during the tutorials.  
+    You are encouraged to work independently on these assignments to enhance your learning.  
+
+- **Additional Requirements:**  
+  Students must bring the relevant text/problem sets and a calculator to every tutorial session.  
+
+
 
 |Tutorial Questions| Tutorial (Part A) Solutions |
 |:--------:|:--------:|
@@ -84,7 +100,7 @@ This course is based on three textbooks:
 *	"Vector Mechanics for Engineers, Statics & Dynamics" by F. P. Beer et al. McGraw Hill, 7th Ed. 2005
 *	"Engineering Mechanics, Statics and Dynamics" by I.H. Shames, Prentice Hall, (Third or Fourth edition).
   
-*Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures. It is mandatory that all students follow the notation used in lecture notes in all exams/quizzes/tutorial sessions. The use of any other notation leads to massive confusion and ambiguity. If you do not follow the notations used in the lecture notes, your work will not be evaluated.*
+*Use the last two reference books for practicing problem-solving. The notation/development followed in the reference books is very different from that of the main text and our lectures. It is mandatory that all students follow the notation used in lecture notes in all exams/quizzes/tutorial sessions. The use of any other notation leads to massive confusion and ambiguity.* **If you do not follow the notations used in the lecture notes, your work will not be evaluated.**
 
 ## Grading  
 A single make-up exam will be arranged for students who miss the minor exam due to medical reasons. **Only medical certificates issued by the IIT Hospital will be accepted.** The best two out of three quizzes will be counted. There will be no re-quiz for a missed quiz. 
