@@ -62,16 +62,8 @@
 
 |Tutorial Questions| Tutorial (Part A) Solutions |
 |:--------:|:--------:|
-| [Tutorial 1](Tutorials/APL100W24_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
-| [Tutorial 2](Tutorials/APL100W24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
-| [Tutorial 3](Tutorials/APL100W24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
-| [Tutorial 4](Tutorials/APL100W24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
-| [Tutorial 5](Tutorials/APL100W24_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
-| [Tutorial 6](Tutorials/APL100W24_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
-| [Tutorial 7](Tutorials/APL100W24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
-| [Tutorial 8](Tutorials/APL100W24_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
-| [Tutorial 9](Tutorials/APL100W24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
-| [Tutorial 10](Tutorials/APL100W24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
+| [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1sol.pdf) |
+
 
 All tutorials will be held in **LH413.3**
 
