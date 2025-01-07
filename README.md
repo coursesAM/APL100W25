@@ -64,7 +64,7 @@
 |:--------:|:--------:|
 | [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1Asol.pdf) |
 
-
+<br>
 
 All tutorials will be held in **LH413.3**
 
