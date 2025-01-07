@@ -58,13 +58,13 @@
 - **Additional Requirements:**  
   Students must bring the relevant text/problem sets and a calculator to every tutorial session.  
 
-
+<br>
 
 |Tutorial Questions| Tutorial (Part A) Solutions |
 |:--------:|:--------:|
 | [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1Asol.pdf) |
 
-<br><br>
+
 
 All tutorials will be held in **LH413.3**
 
