@@ -62,8 +62,9 @@
 
 |Tutorial Questions| Tutorial (Part A) Solutions |
 |:--------:|:--------:|
-| [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1sol.pdf) |
+| [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1Asol.pdf) |
 
+<br><br>
 
 All tutorials will be held in **LH413.3**
 
@@ -75,6 +76,7 @@ All tutorials will be held in **LH413.3**
 |Thursday| Prof. Sabyasachi Chatterjee| 17-18 |
 |Friday| Prof. Rajdip Nayek | 19-20 |
 
+<br>
 
 ## Course Content
 -	**Kinematics**: Moving point in different coordinate systems; Rigid bodies; Translation and Rotation; Relative motion for translating systems; Angular velocity; General motion of a rigid body; General relative motion.
