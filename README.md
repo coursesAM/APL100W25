@@ -63,6 +63,8 @@
 |Tutorial Questions| Tutorial (Part A) Solutions |
 |:--------:|:--------:|
 | [Tutorial 1](Tutorials/Tut1.pdf) | [Solution](Tutorials/Tut1Asol.pdf) |
+| [Tutorial 1](Tutorials/Tut2.pdf) | [Solution](Tutorials/Tut2Asol.pdf) |
+
 
 <br>
 
