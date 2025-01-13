@@ -37,7 +37,7 @@
 |**0.**| Index notation / Einstein summation convention (ESC) | [ESC (Self Study)](Lectures/Lec0.pdf) | 
 |**1.**| Definitions, Reference frames, Coordinate systems <br> Position vector, Velocity, and Acceleration of a Point/Particle  | [Lecture 1](Lectures/Lec1.pdf) | 
 |**2.**| Kinematics of a Particle/Point in Cartesian, Cylindrical, and Path Coordinate System | [Lecture 2-3](Lectures/Lec2-3.pdf) |
-|**3.**| Motion of a Moving Frame | [Lecture 4](Lectures/Lec4.pdf) |
+|**3.**| Motion of a Particle w.r.t. to Rotating Ref. Frame | [Lecture 4](Lectures/Lec4.pdf) |
 |**4.**| Multiple Reference Frames | [Lecture 5](Lectures/Lec5.pdf) |
 |**5.**| Kinematics of rigid bodies | [Lecture 6](Lectures/Lec6.pdf) |
 
