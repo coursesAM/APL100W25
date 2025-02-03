@@ -42,6 +42,7 @@
 |**5.**| (*Kinematics*) Kinematics of rigid bodies | [Lecture 6](Lectures/Lec6.pdf) |
 |**6.**| (*Dynamics*) Definitions of Force, Moment, COM, Momentum, Angular Momentum, Euler Axioms| [Lecture 7](Lectures/Lec7.pdf) |
 |**7.**| (*Dynamics*) Equivalent Force Systems, Wrench, Coplanar and Parallel Force systems| [Lecture 8](Lectures/Lec8.pdf) |
+|**8.**| (*Dynamics*) Center of Parallel force systems, Distributed force systems, Newton's 3rd law, Coulomb friction, and FBDs| [Lecture 8](Lectures/Lec9.pdf) |
 
 
 ## Tutorial Schedule
