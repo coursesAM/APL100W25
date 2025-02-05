@@ -40,7 +40,7 @@
 |**3.**| (*Kinematics*) Motion of a Particle w.r.t. to Rotating Ref. Frame | [Lecture 4](Lectures/Lec4.pdf) |
 |**4.**| (*Kinematics*) Velocity and Acc. Transfer Relationships in Multiple Reference Frames | [Lecture 5](Lectures/Lec5.pdf) , [Lecture Video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/EVV0dpr58w1PooaPRsRVwjYBqEmohqcPs9HVU5JqrWmODA?e=ZfpbEQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 |**5.**| (*Kinematics*) Kinematics of rigid bodies | [Lecture 6](Lectures/Lec6.pdf) |
-|**6.**| (*Dynamics*) Definitions of Force, Moment, COM, Momentum, Angular Momentum, Euler Axioms| [Lecture 7](Lectures/Lec7.pdf) |
+|**6.**| (*Dynamics*) Definitions of Force, Moment, COM, Linear Momentum, Angular Momentum, Euler Axioms| [Lecture 7](Lectures/Lec7.pdf) |
 |**7.**| (*Dynamics*) Equivalent Force Systems, Wrench, Coplanar and Parallel Force systems| [Lecture 8](Lectures/Lec8.pdf) |
 |**8.**| (*Dynamics*) Center of Parallel force systems, Distributed force systems, Newton's 3rd law, Coulomb friction, and FBDs| [Lecture 8](Lectures/Lec9.pdf) |
 
