@@ -71,6 +71,7 @@
 | [Tutorial 2](Tutorials/Tut2.pdf) | [Solution](Tutorials/Tut2Asol.pdf) |
 | [Tutorial 3](Tutorials/Tut3.pdf) | [Solution](Tutorials/Tut3Asol.pdf) |
 | [Tutorial 4](Tutorials/Tut4.pdf) | [Solution](Tutorials/Tut4Asol.pdf) |
+| [Tutorial 5](Tutorials/Tut5.pdf) | [Solution](Tutorials/Tut5Asol.pdf) |
 
 
 <br>
