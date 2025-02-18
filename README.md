@@ -45,7 +45,7 @@
 |**8.**| (*Dynamics*) Center of Parallel force systems, Distributed force systems, Newton's 3rd law, Coulomb friction, and FBDs| [Lecture 9](Lectures/Lec9.pdf) |
 |**9.**| (*Dynamics*) Support reactions, Momentum transfer rule, Euler's second axiom about a moving reference point| [Lecture 10](Lectures/Lec10.pdf) |
 |**10.**| (*Dynamics*) Inertia Tensor derivation and its properties, components of Inertia Tensor, Parallel Axis Theorem| [Lecture 11](Lectures/Lec11.pdf) |
-|**11.**| (*Dynamics*) Inertia matrix for RBs with plane of symmetry, Transformation of Inertia Matrix, and Principal axes of Inertia matrix| [Lecture 12](Lectures/Lec12c.pdf) |
+|**11.**| (*Dynamics*) Inertia matrix for RBs with plane of symmetry, Transformation of Inertia Matrix, and Principal axes of Inertia matrix| [Lecture 12](Lectures/Lec12-c.pdf) |
 
 
 ## Tutorial Schedule
