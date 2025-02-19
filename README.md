@@ -125,6 +125,8 @@ To earn an A grade, a student must have more than 80% marks **AND** must be with
 |**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
 
+Formula sheet for minor exam can be found [here](Exams/FormulaSheet.pdf)
+
 ## Lecture Attendance
 Students are required to maintain a minimum attendance of 75% in lecture classes. If a student's lecture attendance falls below 75%, their grade in the course may be reduced, in line with the institute's policy on attendance. Any student who is caught signing on the attendance sheet for another student in any lecture/tutorial session will get a zero on the tutorial attendance part (zero on 10%).
 
