@@ -46,7 +46,7 @@
 |**9.**| (*Dynamics*) Support reactions, Momentum transfer rule, Euler's second axiom about a moving reference point| [Lecture 10](Lectures/Lec10.pdf) |
 |**10.**| (*Dynamics*) Inertia Tensor derivation and its properties, components of Inertia Tensor, Parallel Axis Theorem| [Lecture 11](Lectures/Lec11.pdf) |
 |**11.**| (*Dynamics*) Inertia matrix for RBs with plane of symmetry, Transformation of Inertia Matrix, and Principal axes of Inertia matrix| [Lecture 12](Lectures/Lec12.pdf) |
-|**12.**| (*Dynamics*) Inertia matrix relative to its body frame, Euler's 2nd axiom in terms of Inertia tensor, Simplified cases of Euler's axioms| [Lecture 13](Lectures/Lec13.pdf) |
+|**12.**| (*Dynamics*) Inertia matrix relative to its body frame, Euler's 2nd axiom in terms of Inertia tensor, Simplified cases of Euler's axioms| [Lecture 13](Lectures/Lec13.pdf) [Lecture Video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/EXBmWVkhKF5Fq2zl6zkEpz8BVgJ1NYKPwNa0XIRwTvgAGg?e=KuQDic&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
 ## Tutorial Schedule
