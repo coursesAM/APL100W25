@@ -1,4 +1,4 @@
-# APL 100: Engineering Mechanics (Winter semester 2025) 
+![image](https://github.com/user-attachments/assets/ec72115c-b527-464d-96d6-0edf9e467e5e)# APL 100: Engineering Mechanics (Winter semester 2025) 
 
 ![image](https://github.com/user-attachments/assets/5581facb-249e-4e6d-96cc-6794c596201c)
 
@@ -47,7 +47,9 @@
 |**10.**| (*Dynamics*) Inertia Tensor derivation and its properties, components of Inertia Tensor, Parallel Axis Theorem| [Lecture 11](Lectures/Lec11.pdf) |
 |**11.**| (*Dynamics*) Inertia matrix for RBs with plane of symmetry, Transformation of Inertia Matrix, and Principal axes of Inertia matrix| [Lecture 12](Lectures/Lec12.pdf) |
 |**12.**| (*Dynamics*) Inertia matrix relative to its body frame, Euler's 2nd axiom in terms of Inertia tensor, Simplified cases of Euler's axioms| [Lecture 13](Lectures/Lec13.pdf), [Lecture Video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/Ee_6LJDOry1HrP9UmZzCp8cBT4CxUNcrYJL8OSC7BVpLzA?e=McaSWl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-|**13.**| (*Dynamics*) Applications of Euler's axioms through Examples - Part 1| [Lecture 14](Lectures/Lec14.pdf) |
+|**13.**| (*Dynamics*) Applications of Euler's axioms (Csys coincide with p-axes, rotation about body axis) through Examples - Part 1| [Lecture 14](Lectures/Lec14.pdf) |
+|**14.**| (*Dynamics*) Applications of Euler's axioms (Plane 2D motion, Rotor balancing) through Examples - Part 2| [Lecture 15](Lectures/Lec15.pdf) |
+
 
 
 
