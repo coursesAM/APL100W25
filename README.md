@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec72115c-b527-464d-96d6-0edf9e467e5e)# APL 100: Engineering Mechanics (Winter semester 2025) 
+APL 100: Engineering Mechanics (Winter semester 2025) 
 
 ![image](https://github.com/user-attachments/assets/5581facb-249e-4e6d-96cc-6794c596201c)
 
