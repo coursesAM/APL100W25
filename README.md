@@ -49,6 +49,7 @@ APL 100: Engineering Mechanics (Winter semester 2025)
 |**12.**| (*Dynamics*) Inertia matrix relative to its body frame, Euler's 2nd axiom in terms of Inertia tensor, Simplified cases of Euler's axioms| [Lecture 13](Lectures/Lec13.pdf), [Lecture Video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/Ee_6LJDOry1HrP9UmZzCp8cBT4CxUNcrYJL8OSC7BVpLzA?e=McaSWl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 |**13.**| (*Dynamics*) Applications of Euler's axioms (Csys coincide with p-axes, rotation about body axis) through Examples - Part 1| [Lecture 14](Lectures/Lec14.pdf) |
 |**14.**| (*Dynamics*) Applications of Euler's axioms (Plane 2D motion, Rotor balancing) through Examples - Part 2| [Lecture 15](Lectures/Lec15.pdf) |
+|**15.**| (*Energy*) Kinetic Energy of an RB, Work done by a force on moving a particle, Work-energy theorem for particle| [Lecture 16](Lectures/Lec16.pdf) |
 
 
 
