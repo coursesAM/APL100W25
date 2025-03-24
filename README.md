@@ -50,6 +50,7 @@ APL 100: Engineering Mechanics (Winter semester 2025)
 |**13.**| (*Dynamics*) Applications of Euler's axioms (Csys coincide with p-axes, rotation about body axis) through Examples - Part 1| [Lecture 14](Lectures/Lec14.pdf) |
 |**14.**| (*Dynamics*) Applications of Euler's axioms (Plane 2D motion, Rotor balancing) through Examples - Part 2| [Lecture 15](Lectures/Lec15.pdf) |
 |**15.**| (*Energy*) Kinetic Energy of an RB, Work done by a force on moving a particle, Work-energy theorem for particle| [Lecture 16](Lectures/Lec16.pdf) |
+|**16.**| (*Energy*) Mechanical power of an RB, Work-energy theorem for an RB, Conservative forces and Potential Energy | [Lecture 17](Lectures/Lec17.pdf) |
 
 
 
