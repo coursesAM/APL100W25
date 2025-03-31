@@ -51,9 +51,7 @@ APL 100: Engineering Mechanics (Winter semester 2025)
 |**14.**| (*Dynamics*) Applications of Euler's axioms (Plane 2D motion, Rotor balancing) through Examples - Part 2| [Lecture 15](Lectures/Lec15.pdf) |
 |**15.**| (*Energy*) Kinetic Energy of an RB, Work done by a force on moving a particle, Work-energy theorem for particle| [Lecture 16](Lectures/Lec16.pdf) |
 |**16.**| (*Energy*) Mechanical power of an RB, Work-energy theorem for an RB, Conservative forces and Potential Energy | [Lecture 17](Lectures/Lec17.pdf) |
-|**17.**| (*Energy*) PE + KE of an RB for Conservative Forces, Potential energy due to Gravity and Linear Spring, General Work-Energy Principle | [Lecture 18](Lectures/Lec18.pdf), [Lecture 18 video](https://csciitd-my.sharepoint.com/personal/rajdipn_iitd_ac_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Frajdipn%5Fiitd%5Fac%5Fin%2FDocuments%2FRecordings%2FAPL100%5F%20Lecture%2018%2D20250328%5F180230%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2aa24f79%2D87c5%2D4dce%2Da7ef%2D600b7f2c5d2f) |
-
-
+|**17.**| (*Energy*) PE + KE of an RB for Conservative Forces, Potential energy due to Gravity and Linear Spring, General Work-Energy Principle | [Lecture 18](Lectures/Lec18.pdf), [Lecture 18 video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/Ee5TiSsJn9lAsxM9r4vLLVoBL3YaywmgtKG1_J47ZS367g?e=WAAEnY) |
 
 
 ## Tutorial Schedule
