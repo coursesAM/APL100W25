@@ -82,6 +82,7 @@ APL 100: Engineering Mechanics (Winter semester 2025)
 | [Tutorial 6](Tutorials/Tut6.pdf) | [Solution](Tutorials/Tut6Asol.pdf) |
 | [Tutorial 7](Tutorials/Tut7.pdf) | [Solution](Tutorials/Tut7sol_sawan.pdf) |
 | [Tutorial 8](Tutorials/Tut8.pdf) | [Solution](Tutorials/Tut8Asol.pdf) |
+| [Tutorial 9](Tutorials/Tut9.pdf) | [Solution](Tutorials/Tut9Asol.pdf) |
 
 
 <br>
