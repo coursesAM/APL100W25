@@ -57,6 +57,7 @@ Quiz 3 (Sat 10:30-11:00 am) seating arrangement [here](https://docs.google.com/s
 |**18.**| (*Impulse-Momentum relation*) Impulse of a force/moment, Impulse-momentum relation, Angular impulse-angular momentum relation | [Lecture 19](Lectures/Lec19.pdf) |
 |**19.**| (*Collision of two RBs*) Collision of two unconstrained RBs, Planar 2D collision, Collision of constrained RBs | [Lecture 20](Lectures/Lec20.pdf) |
 |**20.**| (*Statics*) Static Equilibrium, Belt friction, Structures (intro) | [Lecture 21](Lectures/Lec21.pdf) |
+|**21.**| (*Statics*) Analysis of Frames, Trusses (intro) | [Lecture 22](Lectures/Lec22.pdf) |
 
 ## Tutorial Schedule
 - **Tutorial sheets** will be uploaded on the course **MOODLE** (and this webpage) a week prior to the tutorial session.  
