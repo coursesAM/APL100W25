@@ -89,7 +89,7 @@ Quiz 3 (Sat 10:30-11:00 am) seating arrangement [here](https://docs.google.com/s
 | [Tutorial 8](Tutorials/Tut8.pdf) | [Solution](Tutorials/Tut8Asol.pdf) |
 | [Tutorial 9](Tutorials/Tut9.pdf) | [Solution](Tutorials/Tut9Asol.pdf) |
 | Tutorial 10 | [Solution](Tutorials/Tut10Asol.pdf) |
-| Tutorial 11 | [Solution](Tutorials/Tut11Asol.pdf) |
+| [Tutorial 11](Tutorials/Tut11.pdf) | [Solution](Tutorials/Tut11Asol.pdf) |
 
 
 <br>
