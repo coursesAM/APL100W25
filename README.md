@@ -20,7 +20,8 @@ APL 100: Engineering Mechanics (Winter semester 2025)
 
 **Course Policy** (in pdf format): [Course policy PDF](APL100W25_course_policy.pdf)
 
-Quiz 3 (Sat 10:30-11:00 am) seating arrangement [here](https://docs.google.com/spreadsheets/d/1asVktYosyAV3c2m6dTx8kJYjQlrS8T7dm7nC9OIAE_A/edit?usp=sharing)
+List of student IDs who were caught for getting proxy attendance [here](https://docs.google.com/spreadsheets/d/1Djco02jEn2ttXfdvVvO43WragHxzxDCcq7K5_x6eYBM/edit?usp=sharing)
+
 
 ## Table of Contents
 - [Lecture Schedule](#lecture-schedule)
