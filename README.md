@@ -60,6 +60,7 @@ List of student IDs who were caught for getting proxy attendance [here](https://
 |**20.**| (*Statics*) Static Equilibrium, Belt friction, Structures (intro) | [Lecture 21](Lectures/Lec21.pdf) |
 |**21.**| (*Statics*) Analysis of Frames, Trusses (intro) | [Lecture 22](Lectures/Lec22.pdf) |
 |**22.**| (*Statics*) Analysis of Truss: Method of joints and method of sections) | [Lecture 23](Lectures/Lec23.pdf) |
+|**23.**| (*Statics*) Principle of Virtual Work) | [Lecture 24](Lectures/Lec24.pdf) |
 
 
 ## Tutorial Schedule
