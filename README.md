@@ -61,6 +61,7 @@ List of student IDs who were caught for getting proxy attendance [here](https://
 |**21.**| (*Statics*) Analysis of Frames, Trusses (intro) | [Lecture 22](Lectures/Lec22.pdf) |
 |**22.**| (*Statics*) Analysis of Truss: Method of joints and method of sections) | [Lecture 23](Lectures/Lec23.pdf) |
 |**23.**| (*Statics*) Principle of Virtual Work for particles and rigid bodies | [Lecture 24](Lectures/Lec24.pdf) |
+|**24.**| (*Statics*) Principle of Virtual Work for Conservative Forces | [Lecture 25](Lectures/Lec25.pdf) |
 
 
 ## Tutorial Schedule
