@@ -144,7 +144,7 @@ To earn an A grade, a student must have more than 80% marks **AND** must be with
 |**Quiz #2**| 10 | [Sol](Exams/solution_quiz2.pdf) |
 |**Quiz #3**| 10 |  |
 |**Major**| 40 | [PartA Sol], [PartB Sol]|
-|**Re-Major**| 40 | [PartA Sol](Exams/PartA_solutions_v2.pdf), [PartB Sol](Exams/Major25_subjective_sol.pdf)|
+|**Re-Major**| 40 | [PartA Sol](Exams/PartA_solutions_v2.pdf), [PartB Sol](Exams/solution_re_major_marking.pdf)|
 |**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
 
