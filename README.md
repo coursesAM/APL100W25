@@ -139,14 +139,18 @@ To earn an A grade, a student must have more than 80% marks **AND** must be with
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------:|
-|**Quiz #1**| 10 | [Sol](Exams/quiz1_solution.pdf) |
+|**Quiz #1**| 10 | [Sol] |
 |**Minor**| 30 | [Sol](https://drive.google.com/file/d/16YNPSa_0tj3Sc1Cy_9TnGGROhQVGZQAr/view?usp=sharing) |
-|**Quiz #2**| 10 | [Sol](Exams/solution_quiz2.pdf) |
+|**Quiz #2**| 10 | [Sol] |
 |**Quiz #3**| 10 |  |
 |**Major**| 40 | [PartA Sol], [PartB Sol]|
-|**Re-Major**| 40 | [PartA Sol](Exams/PARTA_solution_re_major.pdf), [PartB Sol](Exams/solution_re_major_marking.pdf)|
+|**Re-Major**| 40 | [PartA Sol], [PartB Sol]|
 |**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
+
+<--!
+|**Minor**| 30 | [Sol](https://drive.google.com/file/d/16YNPSa_0tj3Sc1Cy_9TnGGROhQVGZQAr/view?usp=sharing) |
+-->
 
 Formula sheet for minor exam can be found [here](Exams/FormulaSheet.pdf)
 
