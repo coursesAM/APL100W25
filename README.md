@@ -148,7 +148,7 @@ To earn an A grade, a student must have more than 80% marks **AND** must be with
 |**Tutorial Attendance**| 10 | [Tut Attd](https://docs.google.com/spreadsheets/d/1PAtiBWz4vaXzsIcjFU2ygSceUVB-LaV930WQqWWMIwE/edit?gid=0#gid=0)|
 |**Total** |100| |
 
-<--!
+<!--
 |**Minor**| 30 | [Sol](https://drive.google.com/file/d/16YNPSa_0tj3Sc1Cy_9TnGGROhQVGZQAr/view?usp=sharing) |
 -->
 
